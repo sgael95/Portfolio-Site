@@ -1,2 +1,6 @@
 # Private info
 src/config.js
+
+# Node Modules
+node_modules
+build
