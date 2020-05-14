@@ -4,7 +4,8 @@ const HtmlWebPackPlugin = require("html-webpack-plugin");
 module.exports = {
   mode: "development",
   output: {
-    publicPath: "/Porfolio-Site/",
+    filename: "bundle.js",
+    path: "/Porfolio-Site/",
   },
   resolve: {
     extensions: [".js", ".jsx"],

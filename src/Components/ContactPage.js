@@ -16,6 +16,7 @@ class ContactPage extends React.Component {
             <div className="row justify-content-center contact-row">
               <a
                 href="https://www.linkedin.com/in/gael-sanchez/"
+                target="_blank"
                 className="btn btn-primary"
               >
                 <i className="fab fa-linkedin"></i>
@@ -23,6 +24,7 @@ class ContactPage extends React.Component {
               <h3>
                 <a
                   href="https://www.linkedin.com/in/gael-sanchez/"
+                  target="_blank"
                   className="text-white"
                 >
                   &nbsp;linkedin
@@ -40,11 +42,19 @@ class ContactPage extends React.Component {
               </h3>
             </div>
             <div className="row justify-content-center contact-row">
-              <a href="https://github.com/sgael95" className="btn btn-primary">
+              <a
+                href="https://github.com/sgael95"
+                className="btn btn-primary"
+                target="_blank"
+              >
                 <i className="fab fa-github"></i>
               </a>
               <h3>
-                <a href="https://github.com/sgael95" className="text-white">
+                <a
+                  href="https://github.com/sgael95"
+                  className="text-white"
+                  target="_blank"
+                >
                   &nbsp;github
                 </a>
               </h3>

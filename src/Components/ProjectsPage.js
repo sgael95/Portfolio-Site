@@ -58,15 +58,11 @@ class ProjectsPage extends React.Component {
                           React and Node) stack. The project is Implemented
                           using technologies such as Redux, Webpack, Bootstrap 4
                           and Babel. This project is currently deployed on an
-                          Amazon AWS EC2 instance. The goal of this project is
-                          provide a paperless solution to manage cars at a valet
-                          stand.
+                          Amazon AWS EC2 instance.
                         </p>
                         <p className="text-black">
-                          Admin user can be viewed with:
-                        </p>
-                        <p className="text-black">
-                          Username = "admin" and Password = "@dm1n2n1md@"
+                          Admin user can be viewed with: Username = "admin" and
+                          Password = "@dm1n2n1md@"
                         </p>
                         <div className="sm">
                           <a
@@ -162,8 +158,7 @@ class ProjectsPage extends React.Component {
                           quick view of the map then changes the faces and sets
                           another timer for the game. The object of the game is
                           to match as many cards as possible within the given
-                          time constraint. There are three difficulty levels and
-                          score card is presented upon exiting the game.
+                          time constraint.
                         </p>
                         <div className="sm">
                           <a

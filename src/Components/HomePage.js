@@ -15,9 +15,13 @@ class HomePage extends React.Component {
           <div className="home-jumbo">
             <h1 className="text-white">Gael Sanchez</h1>
             <p className="text-white">Software Developer</p>
-            <button type="button" className="btn btn-outline-light">
+            <a
+              className="btn btn-outline-light"
+              href="https://github.com/sgael95/Portfolio-Site"
+              target="_blank"
+            >
               Source Code
-            </button>
+            </a>
           </div>
         </div>
       </div>
